@@ -38,7 +38,6 @@ namespace homeWork2._5
             Console.WriteLine("Введите баланс евро: ");
             euroInWallet = Convert.ToInt32(Console.ReadLine());
 
-
             while (isCommandExit)
             {
                 Console.WriteLine("Выберите необходимую операцию");
